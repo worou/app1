@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,QACE,wBAAiC,CACjC,eAAgB,CAChB,kBACF","file":"main.5ffc3a7a.chunk.css","sourcesContent":[".active{\n  background-color:rgb(78, 78, 248);\n  font-size: large;\n  font-weight: bolder;\n}"]}
